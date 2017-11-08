@@ -5,7 +5,7 @@ class SearchBox extends Component {
   render() {
     return (
       <div>
-          Header
+          SearchBox
       </div>
     );
   }

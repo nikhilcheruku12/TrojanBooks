@@ -5,7 +5,7 @@ class Logo extends Component {
   render() {
     return (
       <div>
-          Header
+          Logo
       </div>
     );
   }

@@ -5,7 +5,7 @@ class MakePost extends Component {
   render() {
     return (
       <div>
-          Header
+          MakePost
       </div>
     );
   }
