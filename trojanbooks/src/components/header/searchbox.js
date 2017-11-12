@@ -4,7 +4,7 @@ import './header.css';
 class SearchBox extends Component {
   render() {
     return (
-      <div>
+      <div style={{padding:'15px'}}>
           SearchBox
       </div>
     );

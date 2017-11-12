@@ -4,7 +4,7 @@ import './header.css';
 class MakePost extends Component {
   render() {
     return (
-      <div>
+      <div style={{padding:'15px'}}>
           MakePost
       </div>
     );

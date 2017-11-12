@@ -1,5 +1,12 @@
-.rows    {
-    display: inline-block;
-    background: rgb(78, 133, 15);
+.topbar {
+    display: flex;
+    background: rgb(0, 238, 255);
+    justify-content: space-around;
+    height: 50px;
 }
 
+.topbar .item {
+    justify-content: center;
+    align-items: center;
+    height: 50px;    
+}

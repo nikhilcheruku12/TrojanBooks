@@ -9,12 +9,12 @@ import SearchBox from './searchbox.js';
 class Header extends Component {
   render() {
     return (
-      <div className="rows">
-          <Logo className="row" id="logo"/>
-          <SearchBox className="row" id="searchBox"/>
-          <MakePost className="row" id="makePost"/>
-          <Login className="row" id="login"/>
-          <Profile className="row" id="profile"/>
+      <div className="topbar">
+          <Logo className="item" id="logo"/>
+          <SearchBox className="item" id="searchBox"/>
+          <MakePost className="item" id="makePost"/>
+          <Login className="item" id="login"/>
+          <Profile className="item" id="profile"/>
       </div>
     );
   }

@@ -4,7 +4,7 @@ import './header.css';
 class Profile extends Component {
   render() {
     return (
-      <div>
+      <div style={{padding:'15px'}}>
           Profile
       </div>
     );
