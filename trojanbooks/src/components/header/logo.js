@@ -4,7 +4,7 @@ import './header.css';
 class Logo extends Component {
   render() {
     return (
-      <div style={{padding:'15px'}}>
+      <div style={{padding:'20px'}}>
           Logo
       </div>
     );
